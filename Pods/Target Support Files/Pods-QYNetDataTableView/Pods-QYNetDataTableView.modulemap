@@ -1,0 +1,6 @@
+framework module Pods_QYNetDataTableView {
+  umbrella header "Pods-QYNetDataTableView-umbrella.h"
+
+  export *
+  module * { export * }
+}
